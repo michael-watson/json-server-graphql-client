@@ -1,5 +1,6 @@
 module.exports = {
     client: {
-      service: 'lost-coast'
+      name: 'favoriteSites-web',
+      service: 'michael-watson-3468'
     },
   };
